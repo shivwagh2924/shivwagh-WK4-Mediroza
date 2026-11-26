@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Nmap%20Outputs-6-557C94?style=flat-square" />
 </p>
 
-**Author:** Shiv Wagh<br>
+**Author:** SHIV WAGH<br>
 **Assessment Type:** Authorized external black-box web application security assessment  
 **Target:** `https://medirozahospital.com`  
 **Observed IP:** `199.188.201.16`  
@@ -105,6 +105,10 @@ Objective:
 - Test input handling.
 - Demonstrate controlled authentication bypass where evidence supports it.
 - Retrieve the three patient pathology-report artifacts referenced by the application.
+
+- Evidences
+- 
+  ![m1/confidential pdf.png](m1/confidential%20pdf.png)
 
 ## M2 — Cryptographic Analysis & Password Recovery
 
