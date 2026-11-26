@@ -4,7 +4,6 @@
 ## Independent Web Application Security Assessment
 
 ### Evidence-Driven Black-Box Penetration Test • Exploitation Validation • Cryptographic Analysis • Remediation Engineering
-
 <p>
 <img src="https://img.shields.io/badge/Assessment-Authorized-0B5FFF?style=flat-square" />
 <img src="https://img.shields.io/badge/Methodology-Black--Box-1F6FEB?style=flat-square" />
