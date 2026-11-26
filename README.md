@@ -123,19 +123,18 @@ Objective:
 - Validate the recovered credentials by decrypting the documents and checking the resulting files.
 
 - Evidences
--  <p> 
+-
+-    ![(m2/pdf1hash.png](m2/pdf1hash.png)
+ ![(m2/pdf1password.png](m2/pdf1password.png)
+ ![m2/pdf1%20data.png](m2/pdf1%20data.png)
 
-   ![m1/confidential pdf.png](m2/pdf1hash.png)
- ![m1/confidential pdf.png](m2/pdf1password.png)
- ![m1/confidential pdf.png](m2/pdf1%20data.png)
-
-![m1/confidential pdf.png](m2/pdf2password.png)
-![m1/confidential pdf.png](m2/pdf2%20data.png)
-![m1/confidential pdf.png](m2/pdf3password.png)
-![m1/confidential pdf.png](m2/pdf3data.png)
+![m2/pdf2password.png](m2/pdf2password.png)
+![m2/pdf2%20data.png](m2/pdf2%20data.png)
+![m2/pdf3password.png](m2/pdf3password.png)
+![m1/pdf3data.png](m2/pdf3data.png)
 
  
-</p>
+
 ## M3 — Sensitive Business Data Exposure
 
 Objective:
@@ -146,6 +145,8 @@ Objective:
 - Quantify staff and shareholder exposure.
 - Analyze the business impact of the exposed data.
 
+Evidence 
+![m1/confidential pdf.png](m3/mediroza_db_backup_2019.pdf)
 ## M4 — Professional Security Assessment
 
 Objective:
