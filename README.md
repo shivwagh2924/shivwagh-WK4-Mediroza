@@ -146,7 +146,7 @@ Objective:
 - Analyze the business impact of the exposed data.
 
 Evidence 
-![m1/confidential pdf.png](m3/mediroza_db_backup_2019.pdf)
+![m1/confidential pdf](m3/mediroza_db_backup_2019.pdf)
 ## M4 — Professional Security Assessment
 
 Objective:
